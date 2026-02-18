@@ -13,12 +13,6 @@ Chrome browser (latest version)
 IDE: IntelliJ IDEA
 TestNG plugin 
 
-Project Structure
-registration-automation/
-│
-├── src/main/java/test/Registration.java  # Main test class for registration
-├── pom.xml                               # Maven dependencies (if used)
-└── README.md                             # Project documentation
 
 Technology Stack:
 
